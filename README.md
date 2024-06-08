@@ -16,22 +16,22 @@ Business Understanding and Objective
 ![All Continent Sales](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture1.png)
 
 ### Brand: Toy and Novelty has almost equal market share in terms of sales
-
+![Product Brands](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture2.png)
 
 ### Mexico has the biggest manufacturing Facility
-
+![Manufacturing Facilities](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture3.png)
 
 ### East has more Facility Locations and Sales compared to the West
-
+![Facility Location](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture4.png)
 
 ### TimeSeries: Product Brand vs Estimates
-
+![Product Brand vs Estimates](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture5.png)
 
 ### TimeSeries: Product Line vs Estimates
-
-
+![Product Line vs Estimates](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture6.png)
 
 ### Upward trend for States(Product Line)
+![Upward trend for States](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture7.png)
 
 Please refer to the PDF for more information
 
