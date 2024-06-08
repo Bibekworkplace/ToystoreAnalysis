@@ -13,7 +13,7 @@ Business Understanding and Objective
 ## Few Insights
 
 ### North America accounts for 81% of the sales
-
+![All Continent Sales](https://github.com/Bibekworkplace/ToystoreAnalysis/blob/main/images/Picture1.png)
 
 ### Brand: Toy and Novelty has almost equal market share in terms of sales
 
